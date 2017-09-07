@@ -42,7 +42,7 @@
   R CMD BATCH --no-save --no-restore "--args 5 $SGE_TASK_ID" xfa_ngp.R xfa_ngp_5k_$SGE_TASK_ID.rout
  
 * Contact:
-  Please email Sanvesh Srivastava <sanvesh-srivastava@uiowa.edu> if you have any questions related to the code.
+  Please email Sanvesh Srivastava (<sanvesh-srivastava@uiowa.edu>) if you have any questions related to the code.
 
    
   
